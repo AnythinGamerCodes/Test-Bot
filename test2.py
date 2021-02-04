@@ -538,4 +538,4 @@ Still need help? Contact our support!""")
     await ctx.send(embed=embed)
 
 
-client.run('Nzk3ODM0MDk0NDM2MTU1NDAy.X_sO5w.YQnxyi40QFZ18dPLqfNMd6VzDk0')
+client.run('TOKEN')
